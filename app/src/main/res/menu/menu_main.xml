@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+    android:id="@+id/menu_novo"
+    android:title="Novo"
+    android:icon="@drawable/ic_adicionar"
+    app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/menu_atualiza"
+        android:title="Novo"
+        android:icon="@drawable/ic_atualizar"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:id="@+id/menu_deleta"
+        android:title="Novo"
+        android:icon="@drawable/ic_deletar"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/menu_busca"
+        android:title="Buscar"
+        android:icon="@drawable/ic_buscar"
+        app:showAsAction="always"></item>
+
+
+</menu>
